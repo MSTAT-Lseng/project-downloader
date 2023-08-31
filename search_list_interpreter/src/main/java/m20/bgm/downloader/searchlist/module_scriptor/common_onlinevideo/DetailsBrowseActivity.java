@@ -211,7 +211,7 @@ public class DetailsBrowseActivity extends Activity {
                 String value_tasked = value.substring(1, value.length() - 1).replace("\\n", "\n").replace("{bgd_script}", "script").replace("{bgd_br}", "\n");
                 if (!value_tasked.equals("NONE")) {
                     if (value_tasked.equals(SearchTaskerInterpreter.TASK_NULL)) {
-                        ((TextView) activity.findViewById(R.id.details_introduce_content)).setText("番剧介绍接在错误：返回值异常"); // 设置文本
+                        ((TextView) activity.findViewById(R.id.details_introduce_content)).setText("番剧介绍加载错误：返回值异常"); // 设置文本
                     } else {
                         ((TextView) activity.findViewById(R.id.details_introduce_content)).setText(value_tasked); // 设置文本
                     }
