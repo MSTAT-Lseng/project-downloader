@@ -1,0 +1,14 @@
+{
+    "info": {
+        "id": "yinghuacd",
+        "name": "樱花 CD"
+    },
+    "config": {
+        "domain": "www.yinghuavideo.com",
+        "protocol": "http",
+        "type": "common-onlinevideo",
+        "pages": 3,
+        "default_page_tag": 1
+    },
+    "min_version": 1
+}

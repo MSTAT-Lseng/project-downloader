@@ -1,0 +1,7 @@
+{
+  "search_method": "GET",
+  "search_link": "https://www.agemys.org/search",
+  "data_params": "?query={bgd_search_keyword}&page={bgd_pages}",
+  "enabled_pages_mode": true,
+  "timeout_seconds": 10
+}

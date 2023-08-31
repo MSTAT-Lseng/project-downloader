@@ -1,0 +1,14 @@
+{
+    "info": {
+        "id": "dfys6",
+        "name": "Dfys6"
+    },
+    "config": {
+        "domain": "dfys6.com",
+        "protocol": "http",
+        "type": "common-onlinevideo",
+        "pages": 3,
+        "default_page_tag": 1
+    },
+    "min_version": 1
+}

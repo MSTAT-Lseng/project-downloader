@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">番剧下载</string>
+
+    <!-- androlua+ -->
+    <string name="accsibility_service_description">辅助功能</string>
+</resources>

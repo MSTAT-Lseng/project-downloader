@@ -1,0 +1,14 @@
+{
+    "info": {
+        "id": "ococ",
+        "name": "OCOC"
+    },
+    "config": {
+        "domain": "ococ.me",
+        "protocol": "https",
+        "type": "common-onlinevideo",
+        "pages": 3,
+        "default_page_tag": 1
+    },
+    "min_version": 1
+}

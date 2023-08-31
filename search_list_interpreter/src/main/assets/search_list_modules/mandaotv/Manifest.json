@@ -1,0 +1,14 @@
+{
+    "info": {
+        "id": "mandaotv",
+        "name": "漫岛TV"
+    },
+    "config": {
+        "domain": "www.mandaowang.com",
+        "protocol": "https",
+        "type": "common-onlinevideo",
+        "pages": 3,
+        "default_page_tag": 1
+    },
+    "min_version": 1
+}

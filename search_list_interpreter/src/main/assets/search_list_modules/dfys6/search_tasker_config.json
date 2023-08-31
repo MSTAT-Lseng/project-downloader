@@ -1,0 +1,7 @@
+{
+  "search_method": "GET",
+  "search_link": "http://119.29.15.48:12334/ssszz.php",
+  "data_params": "?q={bgd_search_keyword}",
+  "enabled_pages_mode": false,
+  "timeout_seconds": 10
+}

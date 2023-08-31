@@ -1,0 +1,14 @@
+{
+    "info": {
+        "id": "qimiqimi",
+        "name": "奇米奇米"
+    },
+    "config": {
+        "domain": "www.qimiqimi.net",
+        "protocol": "http",
+        "type": "common-onlinevideo",
+        "pages": 3,
+        "default_page_tag": 1
+    },
+    "min_version": 1
+}

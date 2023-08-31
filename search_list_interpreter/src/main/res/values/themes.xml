@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.番剧下载" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorPrimaryVariant">@color/blue_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_300</item>
+        <item name="colorSecondaryVariant">@color/blue_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/blue_700</item>
+        <!-- disable dark mode -->
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- AndroLua+ Theme -->
+    <style name="app_theme" parent="android:Theme.Holo.Light.NoActionBar">
+    </style>
+
+    <style name="DarkEditTextStyle" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/grey_600</item>
+        <item name="colorControlActivated">@color/blue_600</item>
+    </style>
+
+</resources>

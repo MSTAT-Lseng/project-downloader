@@ -1,0 +1,14 @@
+{
+    "info": {
+        "id": "dmd55",
+        "name": "动漫岛"
+    },
+    "config": {
+        "domain": "www.dmd85.com",
+        "protocol": "http",
+        "type": "common-onlinevideo",
+        "pages": 3,
+        "default_page_tag": 1
+    },
+    "min_version": 1
+}

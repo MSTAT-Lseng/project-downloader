@@ -1,0 +1,14 @@
+{
+    "info": {
+        "id": "imomoe",
+        "name": "樱花动漫"
+    },
+    "config": {
+        "domain": "www.yhdm9.net",
+        "protocol": "http",
+        "type": "common-onlinevideo",
+        "pages": 3,
+        "default_page_tag": 1
+    },
+    "min_version": 1
+}

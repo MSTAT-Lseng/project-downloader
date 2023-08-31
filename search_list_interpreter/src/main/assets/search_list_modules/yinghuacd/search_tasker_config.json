@@ -1,0 +1,7 @@
+{
+  "search_method": "GET",
+  "search_link": "http://www.yinghuavideo.com/search/",
+  "data_params": "{bgd_search_keyword}/?page={bgd_pages}",
+  "enabled_pages_mode": true,
+  "timeout_seconds": 10
+}

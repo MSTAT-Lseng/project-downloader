@@ -1,0 +1,7 @@
+{
+  "search_method": "GET",
+  "search_link": "https://gimy.video/search/",
+  "data_params": "{bgd_search_keyword}----------{bgd_pages}---.html",
+  "enabled_pages_mode": true,
+  "timeout_seconds": 10
+}

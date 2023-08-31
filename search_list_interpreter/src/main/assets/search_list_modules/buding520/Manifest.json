@@ -1,0 +1,14 @@
+{
+    "info": {
+        "id": "buding520",
+        "name": "布丁 520"
+    },
+    "config": {
+        "domain": "buding4.com",
+        "protocol": "http",
+        "type": "common-onlinevideo",
+        "pages": 2,
+        "default_page_tag": 1
+    },
+    "min_version": 1
+}

@@ -1,0 +1,7 @@
+{
+  "search_method": "GET",
+  "search_link": "https://ococ.me/index.php/vod/search/",
+  "data_params": "page/{bgd_pages}/wd/{bgd_search_keyword}.html",
+  "enabled_pages_mode": true,
+  "timeout_seconds": 10
+}

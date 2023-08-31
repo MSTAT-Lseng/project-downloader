@@ -1,0 +1,14 @@
+{
+    "info": {
+        "id": "zzzfun",
+        "name": "ZzzFun"
+    },
+    "config": {
+        "domain": "www.zzzfun.one",
+        "protocol": "http",
+        "type": "common-onlinevideo",
+        "pages": 3,
+        "default_page_tag": 1
+    },
+    "min_version": 1
+}

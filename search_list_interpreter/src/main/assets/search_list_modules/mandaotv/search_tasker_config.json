@@ -1,0 +1,8 @@
+{
+  "search_method": "GET",
+  "search_link": "https://www.mandaowang.com/search.php",
+  "data_params": "?page={bgd_pages}&searchword={bgd_search_keyword}&searchtype=",
+  "enabled_pages_mode": true,
+  "timeout_seconds": 10
+}
+
